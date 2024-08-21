@@ -9,11 +9,12 @@ Generative retrieval uses differentiable search indexes to directly generate rel
 
 
 ## Resources
-[PDF](resources/ACL24-Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative  Retrieval.pdf)
 
-[Poster](resources/poster-BootRet-ACL Findings 1874.pdf)
+[Paper](resources/ACL24-Bootstrapped_Pre-training_with_Dynamic_Identifier_Prediction_for_Generative_Retrieval.pdf)
 
-[Slides](resources/slides-BootRet-ACL Findings 1874.pptx)
+[Poster](resources/poster-BootRet-ACL_Findings_1874.pdf)
+
+[Slides](resources/slides-BootRet-ACL_Findings_1874.pptx)
 
 
 
