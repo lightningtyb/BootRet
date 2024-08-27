@@ -16,6 +16,8 @@ Generative retrieval uses differentiable search indexes to directly generate rel
 
 [Slides](resources/slides-BootRet-ACL_Findings_1874.pptx)
 
+[Video](https://www.dropbox.com/scl/fi/fa69j96u98m6pdyg1lacb/video-BootRet-ACL-Findings-1874.mp4?rlkey=ao3fj7v01rn6mszr88q3gu0th&st=g3hzhsjb&dl=0)
+
 
 
 
